@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"The "},{"text":"Official Mod","color":"light_purple","hoverEvent":{"action":"show_text","contents":"This mod was made by the same person who made Create: Factory Builder"}},{"text":" for "},{"text":"Create: Factory Builder","color":"yellow","hoverEvent":{"action":"show_text","contents":"Modpack by SCsupercraft"}},{"text":" Has Loaded "},{"text":"Successfully","color":"dark_green"},{"text":"!"}]
+scoreboard objectives add factory_data dummy

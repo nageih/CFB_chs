@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier"
+      },
+      "title":{
+        "text":"Cheater, cheater!"
+      },
+      "description":{
+        "text":"Enable cheats"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "cfb-advancements:complete_chapter_2",
+    "criteria": {
+      "???": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      ["???"]
+    ]
+  }
