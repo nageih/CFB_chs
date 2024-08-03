@@ -1,0 +1,11 @@
+{
+    "title": {
+      "text": "Info",
+      "bold": true,
+      "underlined": true,
+      "color": "yellow"
+    },
+    "tip": {
+      "text": "I wonder about what would happen if I tried to go to the nether."
+    }
+}

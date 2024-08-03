@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bricks"
+    },
+    "title":{
+      "text":"The First Step"
+    },
+    "description":{
+      "text":"Buy your first factory!"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "parent": "cfb-advancements:root",
+  "criteria": {
+    "Have 1 Factory": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
