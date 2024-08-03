@@ -1,0 +1,54 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:clipboard"
+      },
+      "title":{
+        "text":"Path 1 Completionist"
+      },
+      "description":{
+        "text":"Finish every quest and complete every research in Path 1 Chapter 1 (Including Secret Quests)."
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:path1",
+    "criteria": {
+      "Research Le Curving Press": {
+        "trigger": "minecraft:impossible"
+      },
+      "Bucket": {
+        "trigger": "minecraft:impossible"
+      },
+      "???": {
+        "trigger": "minecraft:impossible"
+      },
+      "Water Bucket": {
+        "trigger": "minecraft:impossible"
+      },
+      "Lava Bucket": {
+        "trigger": "minecraft:impossible"
+      },
+      "Time To Mine": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Drill": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Tunnels": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      ["Research Le Curving Press"],
+      ["Bucket"],
+      ["Water Bucket"],
+      ["Lava Bucket"],
+      ["Time To Mine"],
+      ["Research Drill"],
+      ["Research Tunnels"],
+      ["???"]
+    ]
+  }

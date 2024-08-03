@@ -1,0 +1,23 @@
+{
+  "gdisplay": {
+    "icon": {
+      "item": "create:mechanical_mixer"
+    },
+    "title": {
+      "text":"Mixing"
+    },
+    "description": {
+      "text": "Internal"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "frame": "task"
+  },
+  "parent": "cfb-advancements:root",
+  "criteria": {
+    "Research Mixing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

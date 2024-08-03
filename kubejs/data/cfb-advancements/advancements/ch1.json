@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:brass_casing"
+      },
+      "title":{
+        "text":"The Factory Grows"
+      },
+      "description":{
+        "text":"Unlock Chapter 1"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:complete_tutorial",
+    "criteria": {
+      "Complete Quest Progress To Chapter 1": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

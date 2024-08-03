@@ -1,0 +1,19 @@
+{
+    "name": "The Shop",
+    "icon": "jackseconomy:admin_shop",
+    "category": "cfb:intro",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "text": "This is the Admin Shop it will be where you can buy and sell items. In the future you can automate this process!",
+            "item": {
+                "item": "jackseconomy:admin_shop"
+            }
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+    ]
+}

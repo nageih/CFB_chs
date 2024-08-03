@@ -1,0 +1,19 @@
+{
+    "name": "Quests",
+    "icon": "create_questing:blueprint",
+    "category": "cfb:intro",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Quests are a important part of Factory Builder. They give you rewards which you need to expand your factory! As well as other useful items."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "text": "A blueprint is used to view quests. You can also set a keybind or use the button in the upper-left hand corner of the screen while in your inventory to open the quest menu.",
+            "item": {
+                "item": "create_questing:blueprint"
+            }
+        }
+    ]
+}

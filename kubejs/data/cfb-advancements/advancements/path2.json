@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "createdeco:decal_right"
+      },
+      "title":{
+        "text":"Path 2"
+      },
+      "description":{
+        "text":"Take Path 2"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:ch1",
+    "criteria": {
+      "Take Path 2 in Chapter 1": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

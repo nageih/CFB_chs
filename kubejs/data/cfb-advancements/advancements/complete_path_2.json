@@ -1,0 +1,38 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:clipboard"
+      },
+      "title":{
+        "text":"Path 2 Completionist"
+      },
+      "description":{
+        "text":"Finish every quest and complete every research in Path 2 Chapter 1 (Including Secret Quests)."
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:path2",
+    "criteria": {
+      "Research Cobblestone": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Goggles": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Building II": {
+        "trigger": "minecraft:impossible"
+      },
+      "???": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      ["Research Cobblestone"],
+      ["Research Goggles"],
+      ["Research Building II"],
+      ["???"]
+    ]
+  }

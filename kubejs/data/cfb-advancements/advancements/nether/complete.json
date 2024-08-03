@@ -1,0 +1,94 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:clipboard"
+      },
+      "title":{
+        "text":"Underworld Completionist"
+      },
+      "description":{
+        "text":"Complete all quests for the nether"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:nether/enter",
+    "criteria": {
+      "Wood": {
+        "trigger": "minecraft:impossible"
+      },
+      "Leather Armor": {
+        "trigger": "minecraft:impossible"
+      },
+      "Wooden Gear": {
+        "trigger": "minecraft:impossible"
+      },
+      "Food?": {
+        "trigger": "minecraft:impossible"
+      },
+      "Brave Souls": {
+        "trigger": "minecraft:impossible"
+      },
+      "Ghast Tears": {
+        "trigger": "minecraft:impossible"
+      },
+      "Glowstone Dust": {
+        "trigger": "minecraft:impossible"
+      },
+      "Glowstone": {
+        "trigger": "minecraft:impossible"
+      },
+      "Netherrack": {
+        "trigger": "minecraft:impossible"
+      },
+      "Basalt": {
+        "trigger": "minecraft:impossible"
+      },
+      "Magma": {
+        "trigger": "minecraft:impossible"
+      },
+      "The Bastion": {
+        "trigger": "minecraft:impossible"
+      },
+      "Blackstone": {
+        "trigger": "minecraft:impossible"
+      },
+      "Stone Gear": {
+        "trigger": "minecraft:impossible"
+      },
+      "Cooked Food": {
+        "trigger": "minecraft:impossible"
+      },
+      "The Fortress": {
+        "trigger": "minecraft:impossible"
+      },
+      "The Wither": {
+        "trigger": "minecraft:impossible"
+      },
+      "Boss Killer": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      ["Wood"],
+      ["Leather Armor"],
+      ["Wooden Gear"],
+      ["Food?"],
+      ["Brave Souls"],
+      ["Ghast Tears"],
+      ["Glowstone Dust"],
+      ["Glowstone"],
+      ["Netherrack"],
+      ["Basalt"],
+      ["Magma"],
+      ["The Bastion"],
+      ["Blackstone"],
+      ["Stone Gear"],
+      ["Cooked Food"],
+      ["The Fortress"],
+      ["The Wither"],
+      ["Boss Killer"]
+    ]
+  }

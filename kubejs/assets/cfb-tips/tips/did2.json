@@ -1,0 +1,11 @@
+{
+    "title": {
+        "text": "Did you know",
+        "bold": true,
+        "underlined": false,
+        "color": "yellow"
+      },
+    "tip": {
+      "text": "That the next update brings multiple factories!"
+    }
+}
