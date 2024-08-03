@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Path 2 Completionist"
+        "text":"路径二：卓越旅程"
       },
       "description":{
-        "text":"Finish every quest and complete every research in Path 2 Chapter 1 (Including Secret Quests)."
+        "text":"完成第一篇章的路径二的所有任务及研究。（包括隐藏任务）"
       },
       "frame": "challenge",
       "show_toast": true,

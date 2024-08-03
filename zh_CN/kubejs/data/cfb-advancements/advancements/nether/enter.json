@@ -4,10 +4,10 @@
         "item": "minecraft:netherrack"
       },
       "title":{
-        "text":"The Underworld"
+        "text":"地底之境"
       },
       "description":{
-        "text":"Visit the nether"
+        "text":"造访下界"
       },
       "background": "minecraft:textures/block/netherrack.png",
       "frame": "challenge",

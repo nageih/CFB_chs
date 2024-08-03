@@ -4,10 +4,10 @@
         "item": "create:brass_casing"
       },
       "title":{
-        "text":"Brassin around and connecting"
+        "text":"铜韵交织"
       },
       "description":{
-        "text":"Unlock Chapter 2"
+        "text":"解锁第二篇章"
       },
       "frame": "goal",
       "show_toast": true,

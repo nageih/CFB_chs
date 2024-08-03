@@ -1,5 +1,5 @@
 {
-    "name": "Making Andesite Alloy",
+    "name": "制作安山合金",
     "icon": "create:andesite_alloy",
     "category": "cfb:intro",
     "sortnum": 4,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "text": "Andesite Alloy is easy to make as it only costs 1 andesite and 1 iron nugget. Since manual crafting is disabled you will have to do it the hard (and expensive) way! First you need a mechanical mixer, but in order to power it you need a cog wheel.",
+            "text": "安山合金很容易制作，你只需要一块安山岩和一个铁粒。但由于手动制作被禁用，你不得不以较为困难（且昂贵）的方式来制作。你需要使用动力搅拌器，并且还需要一个齿轮来对它进行供能。",
             "item": {
                 "item": "create:andesite_alloy"
             }

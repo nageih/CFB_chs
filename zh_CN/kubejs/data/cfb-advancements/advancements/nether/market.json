@@ -4,10 +4,10 @@
         "item": "jackseconomy:admin_shop"
       },
       "title":{
-        "text":"The Black Market"
+        "text":"黑市"
       },
       "description":{
-        "text":"Unlock the Black Market"
+        "text":"解锁黑市"
       },
       "frame": "goal",
       "show_toast": true,

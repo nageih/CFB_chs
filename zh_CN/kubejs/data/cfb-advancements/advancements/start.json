@@ -4,10 +4,10 @@
       "item": "minecraft:bricks"
     },
     "title":{
-      "text":"The First Step"
+      "text":"故事开篇"
     },
     "description":{
-      "text":"Buy your first factory!"
+      "text":"购买你的第一个工厂！"
     },
     "show_toast": true,
     "announce_to_chat": true,

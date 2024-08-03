@@ -4,10 +4,10 @@
         "item": "createdeco:decal_right"
       },
       "title":{
-        "text":"Path 2"
+        "text":"路径二"
       },
       "description":{
-        "text":"Take Path 2"
+        "text":"完成第一篇章路径一"
       },
       "frame": "goal",
       "show_toast": true,

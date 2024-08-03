@@ -1,6 +1,6 @@
 {
-    "name": "Factory Guide",
-    "landing_text": "Everything you need to know about building a factory.",
+    "name": "工厂手册",
+    "landing_text": "建造一个工厂你所需要了解的一切知识。",
     "version": 1,
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": true,
@@ -14,7 +14,7 @@
     "progress_bar_background": "DDDDDD",
     "pamphlet": "false",
     "show_progress": false,
-    "subtitle": "Guide Book for Factory Builder",
+    "subtitle": "工厂建造手册",
     "show_toasts": true,
     "pause_game": false,
     "text_overflow_mode": "resize"

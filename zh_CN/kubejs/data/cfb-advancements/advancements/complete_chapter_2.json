@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Completionist III"
+        "text":"完美无瑕"
       },
       "description":{
-        "text":"Finish every quest and complete every research in Chapter 2 (Including Secret Quests)."
+        "text":"完成第二篇章中的所有任务及研究。（包括隐藏任务）"
       },
       "frame": "challenge",
       "show_toast": true,

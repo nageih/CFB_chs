@@ -4,10 +4,10 @@
         "item": "create:brass_casing"
       },
       "title":{
-        "text":"The Factory Grows"
+        "text":"扩展工厂"
       },
       "description":{
-        "text":"Unlock Chapter 1"
+        "text":"解锁第一篇章"
       },
       "frame": "goal",
       "show_toast": true,

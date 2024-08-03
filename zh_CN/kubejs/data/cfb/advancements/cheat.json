@@ -4,10 +4,10 @@
         "item": "minecraft:barrier"
       },
       "title":{
-        "text":"Cheater, cheater!"
+        "text":"作弊者, 作弊“狗”！"
       },
       "description":{
-        "text":"Enable cheats"
+        "text":"启用作弊功能"
       },
       "frame": "challenge",
       "show_toast": true,

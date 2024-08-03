@@ -4,10 +4,10 @@
         "item": "minecraft:book"
       },
       "title":{
-        "text":"The End Of The Start"
+        "text":"开篇亦是落幕"
       },
       "description":{
-        "text":"Finish the tutorial"
+        "text":"完成教学章节"
       },
       "frame": "task",
       "show_toast": true,

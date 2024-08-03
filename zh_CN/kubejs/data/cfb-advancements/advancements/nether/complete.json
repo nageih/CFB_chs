@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Underworld Completionist"
+        "text":"地下之境，寻得臻美"
       },
       "description":{
-        "text":"Complete all quests for the nether"
+        "text":"完成下界篇章所有任务。"
       },
       "frame": "challenge",
       "show_toast": true,

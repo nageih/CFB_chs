@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Completionist II"
+        "text":"臻于至善"
       },
       "description":{
-        "text":"Finish every quest and complete every research in Chapter 1 (Including Secret Quests)."
+        "text":"完成第一篇章中的所有任务及研究。（包括隐藏任务）"
       },
       "frame": "challenge",
       "show_toast": true,

@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Path 1 Completionist"
+        "text":"路径一：完美旅程"
       },
       "description":{
-        "text":"Finish every quest and complete every research in Path 1 Chapter 1 (Including Secret Quests)."
+        "text":"完成第一篇章的路径一的所有任务及研究。（包括隐藏任务）"
       },
       "frame": "challenge",
       "show_toast": true,

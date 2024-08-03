@@ -4,10 +4,10 @@
         "item": "create:clipboard"
       },
       "title":{
-        "text":"Completionist I"
+        "text":"尽善尽美"
       },
       "description":{
-        "text":"Finish every quest and complete every research in the Introduction chapter (Including Secret Quests)."
+        "text":"完成引导章节中的所有任务及研究。（包括隐藏任务）"
       },
       "frame": "challenge",
       "show_toast": true,
