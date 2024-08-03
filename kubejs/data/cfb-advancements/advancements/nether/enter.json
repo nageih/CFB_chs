@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:netherrack"
+      },
+      "title":{
+        "text":"The Underworld"
+      },
+      "description":{
+        "text":"Visit the nether"
+      },
+      "background": "minecraft:textures/block/netherrack.png",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "criteria": {
+      "???": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

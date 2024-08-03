@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "jackseconomy:admin_shop"
+      },
+      "title":{
+        "text":"The Black Market"
+      },
+      "description":{
+        "text":"Unlock the Black Market"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:nether/enter",
+    "criteria": {
+      "Unlock the Black Market": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

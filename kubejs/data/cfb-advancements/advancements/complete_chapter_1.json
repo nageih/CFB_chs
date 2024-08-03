@@ -1,0 +1,65 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:clipboard"
+      },
+      "title":{
+        "text":"Completionist II"
+      },
+      "description":{
+        "text":"Finish every quest and complete every research in Chapter 1 (Including Secret Quests)."
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cfb-advancements:ch1",
+    "criteria": {
+      "Path 1": {
+        "trigger": "minecraft:impossible"
+      },
+      "Path 2": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Millstone": {
+        "trigger": "minecraft:impossible"
+      },
+      "Research Sifter": {
+        "trigger": "minecraft:impossible"
+      },
+      "Zinc": {
+        "trigger": "minecraft:impossible"
+      },
+      "Factory Level II": {
+        "trigger": "minecraft:impossible"
+      },
+      "The Blaze Burner": {
+        "trigger": "minecraft:impossible"
+      },
+      "Expansion II": {
+        "trigger": "minecraft:impossible"
+      },
+      "The Brass Age": {
+        "trigger": "minecraft:impossible"
+      },
+      "Progress To Chapter 2": {
+        "trigger": "minecraft:impossible"
+      },
+      "???": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "requirements": [
+      ["Path 1","Path 2"],
+      ["Research Millstone"],
+      ["Research Sifter"],
+      ["Zinc"],
+      ["Factory Level II"],
+      ["The Blaze Burner"],
+      ["Expansion II"],
+      ["The Brass Age"],
+      ["Progress To Chapter 2"],
+      ["???"]
+    ]
+  }

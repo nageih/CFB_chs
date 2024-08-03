@@ -1,0 +1,27 @@
+{
+	icon: "jackseconomy:dollar_bill_stack"
+	id: "24DA36EC65090EE6"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "common_money_crate"
+	}
+	loot_size: 5
+	order_index: 0
+	rewards: [
+		{ count: 15, item: "jackseconomy:dollar_bill", random_bonus: 5, weight: 10.0f }
+		{ count: 10, item: "jackseconomy:five_dollar_bill", random_bonus: 5, weight: 7.0f }
+		{ count: 6, item: "jackseconomy:ten_dollar_bill", random_bonus: 4, weight: 6.0f }
+		{ count: 3, item: "jackseconomy:twenty_dollar_bill", random_bonus: 2, weight: 5.0f }
+		{ item: "jackseconomy:fifty_dollar_bill", random_bonus: 2, weight: 4.0f }
+		{ item: "jackseconomy:dollar_bill_stack", random_bonus: 4, weight: 3.0f }
+		{ item: "jackseconomy:five_dollar_bill_stack", random_bonus: 4, weight: 2.0f }
+		{ item: "jackseconomy:ten_dollar_bill_stack", random_bonus: 4 }
+	]
+	title: "Common Money Crate"
+	use_title: true
+}

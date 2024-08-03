@@ -1,0 +1,33 @@
+{
+	icon: "jackseconomy:thousand_dollar_bill_stack"
+	id: "0C4F48CAC40AC82F"
+	loot_crate: {
+		color: 16711806
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		string_id: "exclusive_money_crate"
+	}
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 10, item: "jackseconomy:thousand_dollar_bill", random_bonus: 10, weight: 30.0f }
+		{ count: 2, item: "jackseconomy:thousand_dollar_bill_stack", random_bonus: 3, title: "2-5x Thousand Dollar Bill Stack", weight: 15.0f }
+		{
+			item: {
+				Count: 1
+				id: "jackseconomy:check"
+				tag: {
+					Balance: "100000"
+				}
+			}
+			title: "$100,000 Check"
+			weight: 5.0f
+		}
+	]
+	title: "Exclusive Money Crate"
+	use_title: true
+}

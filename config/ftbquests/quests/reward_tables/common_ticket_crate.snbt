@@ -1,0 +1,47 @@
+{
+	empty_weight: 5.0f
+	icon: "cfb:ticket"
+	id: "7E01C7E270E80A8F"
+	loot_size: 3
+	order_index: 6
+	rewards: [
+		{
+			auto: "no_toast"
+			command: "/scoreboard players add @s tickets 5"
+			elevate_perms: true
+			icon: "cfb:ticket"
+			ignore_reward_blocking: true
+			silent: true
+			team_reward: true
+			title: "5 Tickets"
+			type: "command"
+			weight: 60.0f
+		}
+		{
+			auto: "no_toast"
+			command: "/scoreboard players add @s tickets 15"
+			elevate_perms: true
+			icon: "cfb:ticket"
+			ignore_reward_blocking: true
+			silent: true
+			team_reward: true
+			title: "15 Tickets"
+			type: "command"
+			weight: 30.0f
+		}
+		{
+			auto: "no_toast"
+			command: "/scoreboard players add @s tickets 40"
+			elevate_perms: true
+			icon: "cfb:ticket"
+			ignore_reward_blocking: true
+			silent: true
+			team_reward: true
+			title: "40 Tickets"
+			type: "command"
+			weight: 5.0f
+		}
+	]
+	title: "Common Ticket Crate"
+	use_title: true
+}
