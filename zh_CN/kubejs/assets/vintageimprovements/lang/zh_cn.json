@@ -421,7 +421,7 @@
     "vintageimprovements.ponder.laser.text_5": "When items are provided by a belt...", //
     "vintageimprovements.ponder.laser.text_6": "The Laser will hold and process them automatically", //
 	
-	"vintageimprovements.jei.text.required_speed": "需求转速:",
+	"vintageimprovements.jei.text.required_speed": "需求转速：",
 	"vintageimprovements.jei.text.low": "低",
 	"vintageimprovements.jei.text.medium": "中",
 	"vintageimprovements.jei.text.high": "高",
@@ -451,7 +451,7 @@
 	
 	"vintageimprovements.jei.text.curving_head_damage": "Head Damage", //
 	
-	"vintageimprovements.jei.text.energy": "Energy costs:", //
+	"vintageimprovements.jei.text.energy": "能量消耗：", 
 
 	"vintageimprovements.gui.goggles.low": "低",
 	"vintageimprovements.gui.goggles.medium": "中",
@@ -479,7 +479,7 @@
 	"vintageimprovements.gui.goggles.curving_head": "Head: ", //
 	"vintageimprovements.gui.goggles.durability": "Head's Durability", //
 	
-	"vintageimprovements.gui.goggles.energy": "Energy:", //
+	"vintageimprovements.gui.goggles.energy": "能量：", 
 	
 	"vintageimprovements.gui.lathe.title": "Lathe", //
 
