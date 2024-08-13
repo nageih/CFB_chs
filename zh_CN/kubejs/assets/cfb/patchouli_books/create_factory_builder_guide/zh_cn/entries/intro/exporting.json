@@ -1,5 +1,5 @@
 {
-    "name": "Exporting Goods",
+    "name": "出口货物",
     "icon": "jackseconomy:mechanical_exporter",
     "category": "cfb:intro",
     "sortnum": 5,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "text": "The mechanical exporter will sell items listed in it's given manifest. If given a golden manifest it will sell all sellable items!",
+            "text": "动力出口者会根据其内部的出口清单上列出的物品来出售物品。如果给它一个金出口清单，它将出售所有可售的物品！",
             "item": {
                 "item": "jackseconomy:mechanical_exporter"
             }

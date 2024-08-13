@@ -1,11 +1,11 @@
 {
     "title": {
-        "text": "Did you know",
+        "text": "你知道吗",
         "bold": true,
         "underlined": false,
         "color": "yellow"
       },
     "tip": {
-      "text": "That the next update brings multiple factories!"
+      "text": "下一个更新将带来多个工厂！"
     }
 }

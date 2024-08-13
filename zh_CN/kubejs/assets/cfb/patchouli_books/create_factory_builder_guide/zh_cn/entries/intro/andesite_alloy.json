@@ -1,5 +1,5 @@
 {
-    "name": "制作安山合金",
+    "name": "制造安山合金",
     "icon": "create:andesite_alloy",
     "category": "cfb:intro",
     "sortnum": 4,
@@ -7,18 +7,18 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "text": "安山合金很容易制作，你只需要一块安山岩和一个铁粒。但由于手动制作被禁用，你不得不以较为困难（且昂贵）的方式来制作。你需要使用动力搅拌器，并且还需要一个齿轮来对它进行供能。",
+            "text": "安山合金制作起来相当容易，它只需要1个安山岩和1个铁粒。但由于手工制作方法被禁用了，你不得不采用更为艰难（且昂贵）的方式！首先你需要一个动力搅拌器，但为了驱动它，你还需要一个齿轮。",
             "item": {
                 "item": "create:andesite_alloy"
             }
         },
         {
             "type": "patchouli:text",
-            "text": "Because you can not buy cog wheels early game you will have to make one! First you need 3 things, a mechanical saw, a deloyer and a depot. Place the saw face up before dropping a log on it. Use a hand crank to spin the saw, this will strip the log. Now saw the stripped log, this will give you planks! Place the depot on the ground with the deployer 2 blocks above it, facing down."
+            "text": "由于在游戏初期你无法购买到齿轮，你必须自己制作一个！首先，你需要准备三样东西：一个动力锯、一个机械手和一个置物台。将机械锯放置好，使其锯片面向上方，然后将原木放到锯片上。使用手摇曲柄来旋转锯片，这样就能剥去原木的树皮。接下来，切割去皮后的原木，这样你就能得到木板了！然后，把置物台放置在地上，机械手则放在置物台上方两格的位置，让它面向下方。这样设置后，你就可以开始制作齿轮所需的物品了。"
         },
         {
             "type": "patchouli:text",
-            "text": "Buy a shaft and put it on the depot. Give the deployer 1 plank, then use the hand crank to power the deployer. Once the plank is deployed onto the shaft you will have your self a cog wheel! Use the cog wheel to power the mixer and saw an iron ingot to get iron nuggets."
+            "text": "购买一个传动杆并将它放置在置物台上。给机械手放入1块木板，然后使用手摇曲柄来启动机械手。只要木板被安装到传动杆上，你就会得到一个齿轮！使用这个齿轮来驱动动力搅拌器，同时使用动力锯将铁锭锯切成铁粒。"
         },
         {
             "type": "patchouli:empty",

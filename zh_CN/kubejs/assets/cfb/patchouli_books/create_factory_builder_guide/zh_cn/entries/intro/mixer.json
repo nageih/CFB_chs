@@ -1,5 +1,5 @@
 {
-    "name": "Mixing",
+    "name": "混合搅拌",
     "icon": "create:mechanical_mixer",
     "category": "cfb:intro",
     "sortnum": 3,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "text": "The mixer will allow you to make andesite alloy, as well as other materials. In order to power it you need a cog wheel.",
+            "text": "动力搅拌器可以让你制作安山合金，以及其他多种材料。为了驱动它，你需要一个齿轮。",
             "item": {
                 "item": "create:mechanical_mixer"
             }
