@@ -14,11 +14,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Because you can not buy cog wheels early game you will have to make one! First you need 3 things, a mechanical saw, a deloyer and a depot. Place the saw face up before dropping a log on it. Use a hand crank to spin the saw, this will strip the log. Now saw the stripped log, this will give you planks! Place the depot on the ground with the deployer 2 blocks above it, facing down."
+            "text": "由于你在游戏前期无法买得齿轮，所以你只能自己制作齿轮！首先你需要3样物品——动力锯、机械手、置物台。在你面前放置一台动力锯并将原木扔至上方。使用手摇曲柄以启动动力锯将原木去皮。现在你得到了去皮的原木，这就是你木板的原料！把置物台放在地上，并在其上方2格朝下放置机械手。"
         },
         {
             "type": "patchouli:text",
-            "text": "Buy a shaft and put it on the depot. Give the deployer 1 plank, then use the hand crank to power the deployer. Once the plank is deployed onto the shaft you will have your self a cog wheel! Use the cog wheel to power the mixer and saw an iron ingot to get iron nuggets."
+            "text": "买一个传动杆并将其放至置物台上。给机械手1块木板，然后使用手摇曲柄为机械手供能。木板被装置到传动杆上后，属于你自己的齿轮就诞生了！使用齿轮为搅拌器供能，之后你就可以将铁锭变为铁粒。"
         },
         {
             "type": "patchouli:empty",
