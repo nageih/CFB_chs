@@ -1,16 +1,16 @@
 {
-    "name": "Money",
+    "name": "钱",
     "icon": "jackseconomy:basic_wallet",
     "category": "cfb:intro",
     "sortnum": 1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Money is a valuable resource in Factory Builder. It allows you to buy resources and machines for your factory."
+            "text": "在工厂建造者中，金钱是一种宝贵的资源。它允许你购买工厂所需的资源和机器。"
         },
         {
             "type": "patchouli:spotlight",
-            "text": "A wallet is used to store money which you can then use in the $(l:intro/shop)Admin Shop$(), to do this make sure your wallet is equipped in your Curios Slot (little cross next to player head when in inventory). To access your Wallet, press the \"O\" key by default. Wallets can only store up to a certain amount of money, this Basic Wallet only stores up to 1,000 in cash! You can get better wallets in the future don't worry!",
+            "text": "钱包是用来储存金钱的，你可以通过访问$(l:intro/shop)管理员商店$()来使用这些金钱。要做到这一点，确保你的钱包装备在你的饰品栏中（在你的物品栏中，玩家头像旁边的小十字）。要访问你的钱包，按默认设置是按\"O\"键。钱包只能储存一定数量的钱，这个基础钱包最多只能储存$1,000的现金！不用担心，未来你可以获得更高级的钱包，以储存更多的金钱。",
             "item": {
                 "item": "jackseconomy:basic_wallet"
             }

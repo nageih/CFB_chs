@@ -1,11 +1,11 @@
 {
     "title": {
-        "text": "Did you know",
+        "text": "你知道吗",
         "bold": true,
         "underlined": false,
         "color": "yellow"
       },
     "tip": {
-      "text": "That the next update is adding an outside area?"
+      "text": "下次更新会添加一个外部区域?"
     }
 }

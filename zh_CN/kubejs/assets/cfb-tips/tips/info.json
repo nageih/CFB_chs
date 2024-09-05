@@ -1,11 +1,11 @@
 {
     "title": {
-      "text": "Info",
+      "text": "信息",
       "bold": true,
       "underlined": true,
       "color": "yellow"
     },
     "tip": {
-      "text": "I wonder about what would happen if I tried to go to the nether."
+      "text": "如果你试图前往下界会发生什么？"
     }
 }

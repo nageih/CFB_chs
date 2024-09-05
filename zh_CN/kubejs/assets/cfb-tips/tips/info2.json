@@ -1,11 +1,11 @@
 {
     "title": {
-      "text": "Info",
+      "text": "信息",
       "bold": true,
       "underlined": true,
       "color": "yellow"
     },
     "tip": {
-      "text": "After completing every quest you can go into creative mode!"
+      "text": "完成每个任务后，你可以进入创造模式！"
     }
 }

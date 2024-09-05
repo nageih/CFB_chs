@@ -1,12 +1,12 @@
 {
-    "name": "The Shop",
+    "name": "商店",
     "icon": "jackseconomy:admin_shop",
     "category": "cfb:intro",
     "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "text": "This is the Admin Shop it will be where you can buy and sell items. In the future you can automate this process!",
+            "text": "这就是管理员商店，是你购买和出售物品的地方。在未来，你将能够自动化这个过程！",
             "item": {
                 "item": "jackseconomy:admin_shop"
             }

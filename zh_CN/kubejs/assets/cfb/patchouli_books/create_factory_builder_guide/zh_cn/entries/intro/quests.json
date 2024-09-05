@@ -1,12 +1,12 @@
 {
-    "name": "Quests",
+    "name": "任务",
     "icon": "create_questing:blueprint",
     "category": "cfb:intro",
     "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Quests are a important part of Factory Builder. They give you rewards which you need to expand your factory! As well as other useful items."
+            "text": "任务是工厂建造者中一个非常重要的组成部分。完成任务会给予你各种奖励，这些奖励对于扩展你的工厂至关重要！此外，任务还会提供其他许多有用的物品。"
         },
         {
             "type": "patchouli:spotlight",
